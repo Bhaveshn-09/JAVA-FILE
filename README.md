@@ -64,4 +64,10 @@ program 4a:
 
 program 4b:
 
-p
+program 5a:
+
+program 5b:
+
+program 5c:
+
+program 5d:
