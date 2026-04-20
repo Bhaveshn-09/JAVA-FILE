@@ -16,7 +16,7 @@ program 1c1: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1c1.png
 
 program 1c2: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1c2.png
 
-program 1c3:
+program 1c3: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1c3.png
 
 program 1c4:
 
