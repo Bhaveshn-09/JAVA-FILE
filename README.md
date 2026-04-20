@@ -1,8 +1,8 @@
 OUTPUTS
 
-program 1 : 
+program 1 : https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1.png
 
-program 1a2:
+program 1a2: 
 
 program 1a3:
 
