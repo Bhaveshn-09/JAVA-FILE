@@ -6,7 +6,7 @@ program 1b1: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b1.png
 
 program 1b2: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b2.png
 
-program 1b3:
+program 1b3: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b3.png
 
 program 1b4:
 
