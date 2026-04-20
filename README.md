@@ -10,7 +10,7 @@ program 1b3: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b3.png
 
 program 1b4: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b4.png
 
-program 1b5:
+program 1b5: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b5.png
 
 program 1c1:
 
