@@ -2,17 +2,9 @@ OUTPUTS
 
 program 1 : https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1.png
 
-program 1a2: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b1.png
+program 1b1: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b1.png
 
-program 1a3:
-
-program 1a4:
-
-program 1a5:
-
-program 1b1:
-
-program 1b2:
+program 1b2: https://github.com/Bhaveshn-09/JAVA-FILE/blob/main/1b2.png
 
 program 1b3:
 
